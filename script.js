@@ -22,7 +22,7 @@ const emojis = [
     '😲',
     '🍍',
     '🦄',
-    ''🍕,
+    '🍕',
 ]
 
 // generate random msg from array
