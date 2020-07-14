@@ -12,13 +12,17 @@ if (pageContent) {
 const msg = [
     'You got cake on the brain fool',
     'No one like a series spoiler',
-    'In space we are lost for words'
+    'In space we are lost for words',
+    'Sometimes awkard is the best defence',
+    'knowing you know nothing can be smart'
 ];
 
 const emojis = [
     '😘',
     '😲',
-    '🍍'
+    '🍍',
+    '🦄',
+    ''🍕,
 ]
 
 // generate random msg from array
