@@ -10,11 +10,13 @@ if (pageContent) {
 // pageContent data 
 
 const msg = [
-    'You got cake on the brain fool',
+    'Cake can be delicious but so is little knowledge',
     'No one like a series spoiler',
     'In space we are lost for words',
-    'Sometimes awkard is the best defence',
-    'knowing you know nothing can be smart'
+    'The first two pieces of pizza will not be your last',
+    'Knowing you know nothing can be smart',
+    'Nothing done too fast is down well overall',
+    'Take quick moments to slow down'
 ];
 
 const emojis = [
